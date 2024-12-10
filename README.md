@@ -5,7 +5,7 @@
 
 - Built with React and Firebase for user authentication and book storage
 - User's can upload a PDF, and have it hierarchically summarized
-- They can skim over bit's which they aren't interested in and read in mored depth into bits they are interested in.
+- They can skim over bits which they aren't interested in and read in mored depth into bits they are interested in.
 - Calls OpenAI GPT-4o to summarize texts
 
 - Also I find it makes reading on a phone a joy due to how the text is broken up
