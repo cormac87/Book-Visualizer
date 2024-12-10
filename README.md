@@ -8,6 +8,8 @@
 - They can skim over bit's which they aren't interested in and read in mored depth into bits they are interested in.
 - Calls OpenAI GPT-4o to summarize texts
 
+- Also I find it makes reading on a phone a joy due to how the text is broken up
+
 - Performs PDF parsing to extract data on headings and remove unneccesary texts - based on font sizes and locations
 
 - The demo shows the Book 12 Rules for Life by Jordan Peterson:
