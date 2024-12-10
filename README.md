@@ -1,5 +1,5 @@
 # Book-Visualizer
--Website for visualizing books and breaking them down with summaries
+- Website for visualizing books and breaking them down with summaries
 
 ![image](https://github.com/user-attachments/assets/ac739df6-c8c5-471d-9f9d-d3d75255d029)
 
